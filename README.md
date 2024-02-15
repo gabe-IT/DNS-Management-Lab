@@ -1,3 +1,6 @@
+### Prerequisite labs:
+https://github.com/gabe-IT/Azure-Domain-Controller-Setup
+
 # DNS Management Lab Exercise
 
 ## A-Record Exercise
@@ -27,7 +30,9 @@
 
    - Navigate to the forward lookup zone for your domain.
    - Create a new A-record for "mainframe" pointing to DC-1’s Private IP address.
+     
      ![Screenshot_3](https://github.com/gabe-IT/DNS-Management-Lab/assets/148400020/16fef11b-0c69-48a2-ac77-1c5ca29ef438)
+     
 ![Screenshot_4](https://github.com/gabe-IT/DNS-Management-Lab/assets/148400020/243e6479-ecfb-4c30-832a-51e81880413a)
 
 
